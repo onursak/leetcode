@@ -1,5 +1,9 @@
-// Time complexity: O(m + n)
-// Space complexity: O(1)
+/* 
+
+Time complexity: O(m + n)
+Space complexity: O(1)
+
+*/
 
 class MedianOfTwoSortedArrays {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
