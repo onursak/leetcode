@@ -1,3 +1,10 @@
+/*
+
+Time complexity: O(n) -> n is the max(lenght of l1, length of l2)
+Space complexity: O(n) -> n is the max(lenght of l1, length of l2)
+
+*/
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
