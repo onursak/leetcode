@@ -1,3 +1,10 @@
+/*
+
+Time complexity: O(n) -> n is the length of the string s
+Space complexity: O(m) -> m is the length of the longest substring without characters
+
+*/
+
 class LongestSubstringWithoutRepeatingCharacters {
     public int lengthOfLongestSubstring(String s) {
         if(s.length() == 0){
