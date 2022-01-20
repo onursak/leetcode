@@ -1,7 +1,7 @@
 /*
 
 Time complexity: O(n) -> n is the length of the string s
-Space complexity: O(m) -> m is the length of the longest substring without characters
+Space complexity: O(m) -> m is the length of the longest substring without repeating characters
 
 */
 
