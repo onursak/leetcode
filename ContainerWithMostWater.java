@@ -1,4 +1,11 @@
-class Solution {
+/*
+
+Time complexity: O(n)
+Space complexity: O(1)
+
+*/
+
+class ContainerWithMostWater {
     public int maxArea(int[] height) {
         if(height.length == 2){
             return Math.min(height[0], height[1]);
